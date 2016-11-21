@@ -34,4 +34,5 @@
     <preference name="SplashMaintainAspectRatio" value="true" />
     <preference name="BackupWebStorage" value="local" />
     <preference name="Orientation" value="portrait" />
+    <plugin name="cordova-plugin-crosswalk-webview" spec="~2.2.0" />
 </widget>
